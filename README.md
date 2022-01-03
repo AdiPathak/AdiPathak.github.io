@@ -1,35 +1,14 @@
-# AdiPathak.github.io
-# Foobar
+# Aditya Pathak's Website
 
-Testing shit out
 
-## Installation
+## What You'll Find 
+Here on this website you will find my school and personal projects. These projects will have the description as well as 
+the avaliable code 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+##Contact Information 
+ 
 
-## Usage
 
-```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
