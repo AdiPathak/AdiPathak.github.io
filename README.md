@@ -6,7 +6,7 @@ Here on this website you will find my school and personal projects. These projec
 the avaliable code 
 
 
-##Contact Information 
+
  
 
 
